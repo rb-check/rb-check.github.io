@@ -1,0 +1,31 @@
+# ROCky — Roblox Online Checker
+
+> ROCky is a completely free Telegram bot for monitoring Roblox player statuses, current games and activity history. The bot, the RB Check channel and this website belong to the same project. The project is actively maintained and developed.
+
+The bot's /help, /profile and /level show current commands, personal limits and privileges. All bot features are free to use; available limits depend on the user's level. These references contain public product information, not account-specific records.
+
+## Official project links
+
+- [ROCky bot — @ROCky_RobloxOnlineChecker_Bot](https://t.me/ROCky_RobloxOnlineChecker_Bot): start using the bot in Telegram.
+- [RB Check channel — @RB_Check](https://t.me/RB_Check): the project's Telegram channel; joining can unlock the level 1 offer, subject to eligibility and acceptance in the bot.
+- [Website in Russian](https://rb-check.github.io/): overview and examples.
+- [Website in English](https://rb-check.github.io/en/): English overview.
+
+## Commands, levels and user guidance
+
+- [Русская справка: команды, уровни и лимиты](https://rb-check.github.io/reference/ru.md): getting started, commands, level 0–3 limits, subscription bonus, troubleshooting and limitations.
+- [English reference: commands, levels and limits](https://rb-check.github.io/reference/en.md): the same public reference in English.
+
+The basic monitoring limits by level are 1, 3, 5 and 10 players. Favourite experience limits are 2, 5, 10 and 20. Level 1 is available to eligible channel subscribers after they accept the bot's offer. Leaving the channel revokes the bonus; rejoining does not automatically restore it. No public self-service route is stated here for levels 2 and 3; ask the owner through the channel's direct messages about availability. Higher levels are not advertised as paid plans.
+
+## Add the bot to a group
+
+Send /group in your private conversation with ROCky, use the Add to group button, select a Telegram group and allow the bot to send messages. Return to /group to select the monitored players whose notifications should be delivered to that group. Main monitoring controls remain in your private conversation with the bot.
+
+## Maintenance and owner contact
+
+ROCky is supported and continues to be developed. Project updates are available through the official RB Check channel.
+
+To contact the project owner, open [@RB_Check](https://t.me/RB_Check) in Telegram and send a direct message to the channel. This means the channel's own direct messages; no separate personal account is specified here. For bug reports and feature suggestions, /feedback is also available in the bot.
+
+This file makes the reference easier to retrieve for clients that support llms.txt. It does not guarantee automatic discovery, indexing or recommendations by any assistant or search engine.

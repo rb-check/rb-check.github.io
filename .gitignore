@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.qa/
+*.zip
+
+# Local authoring and operator instructions are not part of the published site.
+/README.md
+/AGENTS.md
+/scripts/
+/assets/examples/nona-outfit-*.png
+/assets/social-preview.png
